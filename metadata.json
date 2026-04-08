@@ -1,0 +1,5 @@
+{
+  "name": "Linguist AI",
+  "description": "Real-time English grammar and spelling correction powered by Gemini AI.",
+  "requestFramePermissions": []
+}
